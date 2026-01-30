@@ -1,0 +1,7 @@
+{
+  "name": "OmniDoc AI",
+  "description": "A comprehensive document and image processing platform with AI-powered conversion, editing, and management tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
